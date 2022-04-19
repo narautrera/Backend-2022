@@ -1,0 +1,33 @@
+body {background-color: black;
+background-image: url(imagenes/flores.jpg);
+width: 100%;
+height: 100%;
+opacity: 98%;}
+
+header {margin-left: 10vw;
+margin-right: 10vw;
+margin-top: 3vw;
+padding: 1vw;
+background-color: #F2D7D5;
+text-align: center;
+font-size: 2.3rem;
+text-decoration: underline;
+font-family: sans-serif;
+word-spacing: 2vw;
+}
+
+nav {margin: 10vw;}
+
+.card-header {border-bottom: dotted  #1ABC9C 0.5vw;}
+.card-body {background-color: #F2D7D5;}
+.card-footer {border-top: dotted #1ABC9C 0.5vw;}
+
+
+.titulo {font-family: sans-serif;
+letter-spacing: 0.3vw;
+text-align: center;}
+
+.boton {background-color: #F1948A;}
+
+.card-header {font-size: 1.5rem;
+font-family: 'Merriweather Sans', sans-serif;}
